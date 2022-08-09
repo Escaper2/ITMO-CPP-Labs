@@ -1,4 +1,4 @@
-<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
+
 
 # Лабораторная работа 3. STL. Контейнеры
 
@@ -12,3 +12,6 @@
 3. Доступ в конец, начало
 4. Доступ по индексу 
 5. Изменение капасити 
+
+
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>

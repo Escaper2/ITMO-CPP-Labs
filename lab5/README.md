@@ -1,3 +1,6 @@
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
+
+
 # Лабораторная работа 5. Аллокатор
 
 Необходимо написать свой аллокатор, а также произвести сравнение его производительности с std::allcocator.

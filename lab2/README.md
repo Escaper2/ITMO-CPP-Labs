@@ -1,3 +1,6 @@
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
+
+
 # Лабораторная работа 2. Использование внешних библиотек. 
 
 

@@ -1,4 +1,4 @@
-<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
+
 
 # Лабораторная работа №6. Programming at compile-time 
 
@@ -8,3 +8,7 @@
 
 
 Программа написана с использованием последнего на момент написания стандарта - С++20. В частности используются новые возможности constexpr, что позволило использовать constexpr vector, а все функции написаны с использованием consteval, что позволяет гарантировать выполнение функции на этапе компиляции. 
+
+
+
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>

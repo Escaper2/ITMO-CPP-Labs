@@ -1,6 +1,6 @@
 # ITMO-CPP-Labs
 
-### [Задания](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/reports)
+### [Задания](https://drive.google.com/drive/folders/1aWLTrzNKEqVGmjpx_8-PRPdBTCPJBv56)
 
 1. [Лабораторная работа 1. ООП. Классы](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab1)
 2. [Лабораторная работа 2. Использование внешних библиотек.](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab2)

@@ -1,4 +1,4 @@
-<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>
+
 
 # Лабораторная работа 1. ООП. Классы
 
@@ -34,3 +34,6 @@
 4. *, /, *=, /=
 5. <<,>>
 6. [] (для получения коэффициента i-го члена) 
+
+
+<img src=https://github.com/Escaper2/ITMO-Algorithms-Labs/blob/master/itmolog.png>

@@ -6,7 +6,7 @@
 2. [Лабораторная работа 2. Использование внешних библиотек.](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab2)
 3. [Лабораторная работа 3. STL. Контейнеры](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab3)
 4. [Лабораторная работа 5. Аллокатор](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab5)
-5. [Лабораторная работа №6. Programming at compile-time](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab6)
+5. [Лабораторная работа 6. Programming at compile-time](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab6)
 
 
 

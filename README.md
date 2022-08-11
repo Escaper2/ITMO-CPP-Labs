@@ -3,7 +3,7 @@
 ### [Задания](https://drive.google.com/drive/folders/1aWLTrzNKEqVGmjpx_8-PRPdBTCPJBv56)
 
 1. [Лабораторная работа 1. ООП. Классы](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab1)
-2. [Лабораторная работа 2. Использование внешних библиотек.](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab2)
+2. [Лабораторная работа 2. Использование внешних библиотек](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab2)
 3. [Лабораторная работа 3. STL. Контейнеры](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab3)
 4. [Лабораторная работа 4. Кубик Рубика](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab4)
 5. [Лабораторная работа 5. Аллокатор](https://github.com/Escaper2/ITMO-CPP-Labs/tree/master/lab5)
